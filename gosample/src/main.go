@@ -10,4 +10,5 @@ func main(){
 	fmt.Println("Should I commit this program?")
 	fmt.Println("Git is so difficult.")
 	fmt.Println("Whoaaaa")
+	fmt.Println("이건 미친 짓이야")
 }
